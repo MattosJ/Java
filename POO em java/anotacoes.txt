@@ -1,0 +1,29 @@
+Classes, Objetos, Atributoes e métodos.
+
+Uma classe define um tipo de objeto, ou seja, representa a estrutura de dados: atributos , construtores, métodos...
+
+exemplo da classe aluno : temos os atributos nome, idade e curso. Além dos métodos assitirAula(), fazerProva() e calcularNota().
+
+os métodos são criados definindo seu tipo de retorno, no caso o tipo "void" que significa vazio.
+
+um objeto é uma instância criada a partir de uma determinada classe.
+
+A classe AlunoTeste representa o objeto, dentro dela é preciso chamar o método main.
+
+Após instanciar o objeto é possível declarar valores aos atributos e chamar os métodos.
+
+Os atributos 
+São características de um objeto, também podem ser chamados de variáveis.
+Exemplos de atributos: nome, idade , peso , altura...
+
+Métodos 
+Os métodos são as ações que os objetos podem realizar;
+Exemplos de métodos: latir() , pular(), brincar() ...
+
+
+Aula 2 construtores 
+
+O que são construtores?
+Os construtores são os métodos responsáveis por criar o objeto, instanciando a classe que foi definida.
+
+Aula 3 Modificadores de Aceesso + métodos Get e Set
